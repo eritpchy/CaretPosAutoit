@@ -1,6 +1,7 @@
 ; $CmdLine[1] = Z:\tmp\caretpos.sh
 ; https://social.msdn.microsoft.com/Forums/sqlserver/en-US/44f8e57b-4767-4558-8aa4-471dce676dfb/get-caret-position-using-active-accessibility-msaa?forum=windowsaccessibilityandautomation
 ; https://www.autoitscript.com/forum/topic/181680-how-to-identify-each-tab/
+#NoTrayIcon
 #include <GuiMenu.au3>
 Opt('WinSearchChildren', 1)
 
